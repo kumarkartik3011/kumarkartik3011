@@ -35,7 +35,7 @@
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **ReactJS**<br>
-✔ I use to write coad on [leetcode](https://leetcode.com/kumarkartik3011/) <br>
+✔ I use to write code on [leetcode](https://leetcode.com/kumarkartik3011/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
